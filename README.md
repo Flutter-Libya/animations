@@ -6,7 +6,7 @@ Welcome to the Flutter Animations Showcase App! This app demonstrates how to use
 
 Check out the demo video below to see the app in action:
 
-![App Demo Video](Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202023-09-01%20at%2003.23.57.gif)
+<img src="Simulator%20Screen%20Recording%20-%20iPhone%2014%20Pro%20Max%20-%202023-09-01%20at%2003.23.57.gif" alt="App Demo Video" width="200">
 
 ## Getting Started
 
